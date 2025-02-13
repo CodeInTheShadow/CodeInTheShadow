@@ -15,6 +15,7 @@
 - 🎓 3rd-year *Electronics & Computer Engineering* student at *PCCE, Goa*  
 - 🏆 *Honors in Robotics & AI* | Love working on AI, ML, and embedded systems  
 - 🌟 A problem-solver at heart, always eager to learn and grow through challenges! 
+- 🧠 *Currently Learning:* Deep Learning (NPTEL) | AI/ML (Udemy)  
 - 🎮 Gamer | 🎹 Keyboard Player | 🚀 Always curious  
 
 ---
