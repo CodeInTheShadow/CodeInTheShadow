@@ -66,6 +66,10 @@
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry%20pi&logoColor=white" />
 
+  <!-- SQL & NoSQL -->
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/NoSQL-4C4C4C?style=for-the-badge&logo=mongodb&logoColor=white" />
+
   <!-- Tools & Platforms -->
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
@@ -75,7 +79,7 @@
 
 ---
 
-## 🔥 Ongoing Projects  
+## 🔥 Recent Projects  
 
 🚀 *Sun-Tracking Solar Panel* – Smart solar energy optimization (Arduino-based)  
 🍕 *Pizza Delivery Website* – Web dev project using HTML, CSS, JavaScript & AJAX  
