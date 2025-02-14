@@ -48,8 +48,10 @@
   <img src="https://img.shields.io/badge/NoSQL-4C4C4C?style=for-the-badge&logo=mongodb&logoColor=white" />
 
   <!-- Tools & Platforms -->
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
 ---
@@ -58,10 +60,10 @@
 
 <p align="center">
   <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeInTheShadow&theme=tokyonight&show_icons=true&hide_border=false&count_private=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeInTheShadow&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" />
   
   <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeInTheShadow&theme=tokyonight&show_icons=true&hide_border=false&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeInTheShadow&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" />
 </p>
 
 ---
@@ -69,7 +71,7 @@
 ## 🏆 GitHub Trophies  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CodeInTheShadow&theme=darkhub&margin-w=10&margin-h=10&column=3&no-bg=true&rank=-?">
+  <img src="https://github-profile-trophy.vercel.app/?username=CodeInTheShadow&theme=darkhub&margin-w=10&margin-h=10&column=3&no-bg=true&rank=-?" />
 </p>
 
 ---
