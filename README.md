@@ -20,7 +20,7 @@
 
 ---
 
-## 🚀 Technologies & Tools  
+## 🛠 Technologies & Tools  
 
 <p align="center">
   <!-- Programming Languages -->
@@ -84,7 +84,7 @@
 
 ---
 
-## 🚀 Fun Badges  
+## 🎭 Personal Tags 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Gamer-🎮-red?style=for-the-badge" />
