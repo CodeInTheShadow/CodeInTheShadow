@@ -20,10 +20,10 @@
 
 ---
 
-## 🏆 GitHub Achievements  
+## 🏆 GitHub Trophies  
 
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=CodeInTheShadow&theme=darkhub&no-frame=false&no-bg=true&margin-w=4">
+  <img src="https://github-profile-trophy.vercel.app/?username=CodeInTheShadow&theme=darkhub&margin-w=10&margin-h=10&column=6&no-bg=true&rank=-?">
 </p>
 
 ---
