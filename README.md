@@ -63,7 +63,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=CodeInTheShadow&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" />
   
   <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeInTheShadow&layout=donut&theme=tokyonight&show_icons=true&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeInTheShadow&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" />
 </p>
 
 ---
