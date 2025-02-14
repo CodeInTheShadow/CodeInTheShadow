@@ -32,10 +32,10 @@
 
 <p align="center">
   <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeInTheShadow&show_icons=true&theme=radical" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeInTheShadow&show_icons=true&theme=radical" width="49%"/>
   
   <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeInTheShadow&layout=compact&theme=radical" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeInTheShadow&layout=compact&theme=radical" width="49%"/>
 </p>
 
 ---
