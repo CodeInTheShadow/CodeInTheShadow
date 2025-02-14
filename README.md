@@ -16,7 +16,7 @@
 - 🏆 *Honors in Robotics & AI* | Love working on AI, ML, and embedded systems  
 - 🌟 A problem-solver at heart, always eager to learn and grow through challenges! 
 - 🧠 **Currently Learning:** Deep Learning (NPTEL) | AI/ML (Udemy)  
-- 🎮 Gamer | 🎹 Keyboard Player | 🚀 Always curious  
+- 🎮 Gamer | 🎥 Anime Enthusiast | ⚽ Football Aficionado | 🎹 Keyboard Player | 🚀 Always curious
 
 ---
 
@@ -86,6 +86,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Gamer-🎮-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Anime%20Enthusiast-🎥-pink?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Football%20Fan-⚽-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Keyboardist-🎹-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Coffee%20Lover-☕-brown?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Night%20Coder-🌙-purple?style=for-the-badge" />
