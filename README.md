@@ -32,13 +32,10 @@
 
 <p align="center">
   <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeInTheShadow&show_icons=true&theme=radical" width="49%"/>
-
-  <!-- GitHub Streak Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeInTheShadow&theme=radical" width="49%"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeInTheShadow&show_icons=true&theme=radical" width="60%"/>
+  
   <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeInTheShadow&layout=compact&theme=radical" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeInTheShadow&layout=compact&theme=radical" width="60%"/>
 </p>
 
 ---
