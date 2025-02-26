@@ -118,6 +118,9 @@
   <a href="https://x.com/NehalAlphonso">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
+  <a href="https://discord.com/users/754932610681274368">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
 </p>
 
 ---
